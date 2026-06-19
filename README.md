@@ -25,7 +25,7 @@ My economics background shapes how I build: I care about **measurement, incentiv
 - Trilingual: **Spanish · English · Swedish**.
 - Focus: human-centered AI, accessibility, healthtech, and turning the invisible into clear data.
 
-<h3 id="projects">🚀 Featured projects</h3>
+<h3 id="projects">Featured projects</h3>
 
 #### 🧠 [Neuromesure](https://github.com/eliospina/neuromesure) — [neuromesure.com](https://neuromesure.com)
 
