@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Elizabeth Ospina 👋</h1>
+<h1 align="center">Elizabeth Ospina</h1>
 
 <p align="center">
-  <strong>I build human-centered AI products — measurable, accessible, and privacy-first.</strong><br/>
-  Solo founder & developer shipping real products with AI as a co-pilot.
+  <strong>Economist (MSc) building human-centered AI products.</strong><br/>
+  I turn complex human signals into measurable, accessible and privacy-first software.
 </p>
 
 <p align="center">
@@ -14,12 +14,16 @@
 
 ---
 
-### 👩‍💻 About me
+### 👤 About
 
-- 🚀 I design and ship **full-stack AI products end to end** — frontend, serverless APIs, auth, payments and the AI layer.
-- 🤝 I **build in public with AI**: I've shipped real apps pairing with **Claude Code**, **Antigravity**, and **Cursor**.
-- 🌍 Multilingual builder & writer: **Spanish, English & Swedish**.
-- 💡 Focus areas: human-centered AI, accessibility, healthtech, and tools that turn the invisible into clear data.
+I'm an **economist (MSc in Economics)** who designs and ships **full-stack AI products end to end** — from product thinking and data modeling to frontend, serverless APIs, auth, payments and the AI layer.
+
+My economics background shapes how I build: I care about **measurement, incentives and evidence** — products that hand people real data instead of opinions.
+
+- 📊 **Measurement-first** product thinking, grounded in economics.
+- 🤝 I **build in public with AI** — shipping real products with **Claude Code**, **Antigravity** and **Cursor**.
+- 🌍 Trilingual: **Spanish · English · Swedish**.
+- 💡 Focus: human-centered AI, accessibility, healthtech, and turning the invisible into clear data.
 
 <h3 id="projects">🚀 Featured projects</h3>
 
@@ -58,9 +62,9 @@ A **measurement instrument for thought patterns**. You describe thoughts in natu
 
 <h3 id="now">🔭 What I'm working on now</h3>
 
-- Growing **Neuromesure** (metrics, wearables integration, mobile via Capacitor).
-- Hardening and evolving **neuroljus.com** — including a planned **Next.js 15** migration, in public.
-- Sharing the journey of building accessible AI products as a solo founder.
+- Scaling **Neuromesure** — metrics, wearables integration, mobile (Capacitor).
+- Evolving **neuroljus.com** — recently migrated to **Next.js 15 + React 19**.
+- Building in public and writing about human-centered, measurable AI.
 
 ---
 
