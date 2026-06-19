@@ -13,7 +13,8 @@
   <a href="https://neuromesure.com">neuromesure.com</a> ·
   <a href="https://neuroljus.com">neuroljus.com</a> ·
   <a href="#work">Work</a> ·
-  <a href="#focus">Focus</a>
+  <a href="#focus">Focus</a> ·
+  <a href="#stack">Stack</a>
 </p>
 
 ---
@@ -45,9 +46,34 @@ A **measurement instrument for thought patterns**. Users describe thoughts in na
 
 **Empathic, privacy-first AI** for families and caregivers of non-verbal autistic individuals. Sensory signals are processed on-device; AI analysis is optional. Trilingual (ES/EN/SV), accessibility-first.
 
-<h3>Technical scope</h3>
+<h3 id="stack">Technology</h3>
 
-Production systems built with TypeScript, React, Next.js, Vite, PostgreSQL (Supabase), Stripe, and Vercel serverless functions. AI integrations (Anthropic Claude, OpenAI) run server-side only. Mobile via Capacitor; automated tests and CI on active products.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat&logo=chartdotjs&logoColor=white)
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 <h3 id="priorities">Current priorities</h3>
 
