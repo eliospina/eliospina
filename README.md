@@ -14,16 +14,16 @@
 
 ---
 
-### 👤 About
+### About
 
 I'm an **economist (MSc in Economics)** who designs and ships **full-stack AI products end to end** — from product thinking and data modeling to frontend, serverless APIs, auth, payments and the AI layer.
 
 My economics background shapes how I build: I care about **measurement, incentives and evidence** — products that hand people real data instead of opinions.
 
-- 📊 **Measurement-first** product thinking, grounded in economics.
-- 🤝 I **build in public with AI** — shipping real products with **Claude Code**, **Antigravity** and **Cursor**.
-- 🌍 Trilingual: **Spanish · English · Swedish**.
-- 💡 Focus: human-centered AI, accessibility, healthtech, and turning the invisible into clear data.
+- **Measurement-first** product thinking, grounded in economics.
+- I **build in public with AI** — shipping real products with **Claude Code**, **Antigravity** and **Cursor**.
+- Trilingual: **Spanish · English · Swedish**.
+- Focus: human-centered AI, accessibility, healthtech, and turning the invisible into clear data.
 
 <h3 id="projects">🚀 Featured projects</h3>
 
