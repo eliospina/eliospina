@@ -39,15 +39,15 @@ I work in **Spanish, English, and Swedish**, across healthtech, accessibility, a
 
 A **measurement instrument for thought patterns**. Users describe thoughts in natural language; the system classifies them into neutral modes and returns metrics over time. Its principle: **it measures and shows data — it does not give advice.**
 
-React · Supabase · Stripe · Claude (server-side) · Vercel · Capacitor (iOS/Android)
-
 #### [NeuroLjus](https://github.com/eliospina/neuroljus-canon-stable) — [neuroljus.com](https://neuroljus.com)
 
 <a href="https://neuroljus.com"><img src="./assets/neuroljus.png" alt="NeuroLjus — empathic AI for sensory understanding" width="100%" /></a>
 
 **Empathic, privacy-first AI** for families and caregivers of non-verbal autistic individuals. Sensory signals are processed on-device; AI analysis is optional. Trilingual (ES/EN/SV), accessibility-first.
 
-Next.js 15 · React 19 · OpenAI (server-side) · Vercel
+<h3>Technical scope</h3>
+
+Production systems built with TypeScript, React, Next.js, Vite, PostgreSQL (Supabase), Stripe, and Vercel serverless functions. AI integrations (Anthropic Claude, OpenAI) run server-side only. Mobile via Capacitor; automated tests and CI on active products.
 
 <h3 id="priorities">Current priorities</h3>
 
