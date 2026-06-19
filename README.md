@@ -24,6 +24,9 @@
 <h3 id="projects">🚀 Featured projects</h3>
 
 #### 🧠 [Neuromesure](https://github.com/eliospina/neuromesure) — [neuromesure.com](https://neuromesure.com)
+
+<a href="https://neuromesure.com"><img src="./assets/neuromesure.png" alt="Neuromesure — Measure your thinking" width="100%" /></a>
+
 A **measurement instrument for thought patterns**. You describe thoughts in natural language; AI classifies them into neutral modes and returns data and metrics. Its principle: **it measures and shows data — it doesn't give advice.**
 - **Stack:** React 19 · Vite · React Router v7 · Tailwind v4 · Recharts · Vercel Serverless Functions
 - **Backend:** Supabase (auth + PostgreSQL with Row-Level Security) · Stripe (subscriptions + webhooks) · Anthropic Claude (server-side only)
@@ -31,6 +34,9 @@ A **measurement instrument for thought patterns**. You describe thoughts in natu
 - Built pairing with **Claude Code**.
 
 #### 💡 [NeuroLjus](https://github.com/eliospina/neuroljus-canon-stable) — [neuroljus.com](https://neuroljus.com)
+
+<a href="https://neuroljus.com"><img src="./assets/neuroljus.png" alt="NeuroLjus — Light that makes the invisible understandable" width="100%" /></a>
+
 **Empathic, privacy-first AI companion** that helps families and caregivers understand non-verbal autistic individuals. Camera signals are processed on-device; AI analysis is optional.
 - **Stack:** Next.js · React · OpenAI (server-side) · Tailwind
 - Trilingual (ES/EN/SV), accessibility-first, reduced-motion support.
