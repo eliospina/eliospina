@@ -1,4 +1,4 @@
-<h1 align="center">Elizabeth Ospina</h1>
+<h1 align="center">Eli Ospi</h1>
 
 <p align="center">
   <strong>Economist (MSc) building human-centered AI products.</strong><br/>
