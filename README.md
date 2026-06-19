@@ -1,7 +1,7 @@
 <h1 align="center">Elizabeth Ospina</h1>
 
 <p align="center">
-  <strong>Economist (MSc)</strong> · Founder · Sweden<br/>
+  <strong>Economist (MSc)</strong> · Solo founder · Sweden<br/>
   <a href="https://orcid.org/0009-0004-7291-3340">ORCID</a>
 </p>
 
@@ -10,10 +10,15 @@
 </p>
 
 <p align="center">
+  <em>Solo builder — I design, ship, and operate full-stack products with AI as my engineering partner.</em>
+</p>
+
+<p align="center">
   <a href="https://neuromesure.com">neuromesure.com</a> ·
   <a href="https://neuroljus.com">neuroljus.com</a> ·
   <a href="#work">Work</a> ·
   <a href="#focus">Focus</a> ·
+  <a href="#build">How I build</a> ·
   <a href="#stack">Stack</a>
 </p>
 
@@ -21,7 +26,7 @@
 
 ### Background
 
-I am an economist (MSc in Economics) who designs and ships full-stack AI products — from measurement models and product strategy to production software. My training shapes how I work: I prioritise **what can be measured**, **what incentives apply**, and **what the evidence supports** — not opinions dressed as insight.
+I am an economist (MSc in Economics) who designs and ships full-stack AI products — from measurement models and product strategy to production software. **I build solo**: product, UX, architecture, and code — using AI (Claude, Cursor) to move fast without sacrificing rigour. My training shapes how I work: I prioritise **what can be measured**, **what incentives apply**, and **what the evidence supports** — not opinions dressed as insight.
 
 I work in **Spanish, English, and Swedish**, across healthtech, accessibility, and human-centred AI. I document and ship in the open, with a bias for systems that are auditable, privacy-first, and useful in real life.
 
@@ -29,8 +34,17 @@ I work in **Spanish, English, and Swedish**, across healthtech, accessibility, a
 
 - Measurement-first product design (economics applied to behaviour and time use)
 - Evidence-based AI — data shown, not advice given
+- Solo founder workflow — AI-accelerated build, human-led product judgment
 - Accessibility, sensory understanding, and caregiver-facing tools
 - Privacy-by-design architecture (on-device processing where it matters)
+
+<h3 id="build">How I build</h3>
+
+I am a **solo founder** who takes products from idea to production without a traditional engineering team. AI is not the product — it is how I ship: Claude and Cursor for implementation, testing, and iteration; economics for what to measure and why it matters.
+
+- **End to end** — strategy, UX, full-stack code, payments, deployment, and production ops
+- **AI-native, not AI-washing** — models run server-side; privacy and evidence stay non-negotiable
+- **Build in public** — decisions, code, and trade-offs documented here on GitHub
 
 <h3 id="work">Selected work</h3>
 
@@ -83,6 +97,8 @@ A **measurement instrument for thought patterns**. Users describe thoughts in na
 ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Solo with AI](https://img.shields.io/badge/Build-Solo_with_AI-6A1B9A?style=flat&logo=anthropic&logoColor=white)
 
 **Mobile & delivery**
 
