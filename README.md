@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <em>Solo builder —
+  <em>Solo builder 
 </p>
 
 <p align="center">
