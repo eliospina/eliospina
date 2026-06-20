@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <em>Solo builder — I design, ship, and operate full-stack products with AI as my engineering partner.</em>
+  <em>Solo builder —
 </p>
 
 <p align="center">
