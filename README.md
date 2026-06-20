@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Economist (MSc)</strong> · Solo founder · Sweden<br/>
-  <a href="https://orcid.org/0009-0004-7291-3340">ORCID</a>
+  
 </p>
 
 <p align="center">
