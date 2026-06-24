@@ -1,7 +1,7 @@
 <h1 align="center">Elizabeth Ospina</h1>
 
 <p align="center">
-  <strong>Economist (MSc)</strong> · Solo founder · Sweden<br/>
+  <strong>Economist (MSc)</strong> ·  · Sweden<br/>
   
 </p>
 
