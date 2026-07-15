@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I build <strong>measurement instruments</strong> and AI products where evidence, incentives, and privacy come first — turning complex human signals into data people can trust.
+  I build <strong>measurement instruments</strong> and owner-facing systems where evidence, incentives, and privacy come first — from healthtech signals to Swedish bookkeeping that helps small businesses decide.
 </p>
 
 <p align="center">
@@ -14,6 +14,7 @@
 </p>
 
 <p align="center">
+  <a href="https://revisorapp.se">revisorapp.se</a> ·
   <a href="https://neuromesure.com">neuromesure.com</a> ·
   <a href="https://neuroljus.com">neuroljus.com</a> ·
   <a href="https://revisorapp.se/
@@ -29,12 +30,13 @@
 
 I am an economist (MSc in Economics) who designs and ships full-stack AI products — from measurement models and product strategy to production software. **I build solo**: product, UX, architecture, and code — using AI (Claude, Cursor) to move fast without sacrificing rigour. My training shapes how I work: I prioritise **what can be measured**, **what incentives apply**, and **what the evidence supports** — not opinions dressed as insight.
 
-I work in **Spanish, English, and Swedish**, across healthtech, accessibility, and human-centred AI. I document and ship in the open, with a bias for systems that are auditable, privacy-first, and useful in real life.
+I work in **Spanish, English, and Swedish**, across healthtech, accessibility, and practical systems for small businesses. I document and ship in the open, with a bias for systems that are auditable, privacy-first, and useful in real life.
 
 <h3 id="focus">Focus</h3>
 
-- Measurement-first product design (economics applied to behaviour and time use)
+- Measurement-first product design (economics applied to behaviour, time use, and cash)
 - Evidence-based AI — data shown, not advice given
+- Owner systems for enskild firma / SMEs — one truth, one next action
 - Solo founder workflow — AI-accelerated build, human-led product judgment
 - Accessibility, sensory understanding, and caregiver-facing tools
 - Privacy-by-design architecture (on-device processing where it matters)
@@ -48,6 +50,10 @@ I am a **solo founder** who takes products from idea to production without a tra
 - **Build in public** — decisions, code, and trade-offs documented here on GitHub
 
 <h3 id="work">Selected work</h3>
+
+#### [Revisor App](https://github.com/eliospina/revisor-app) — [revisorapp.se](https://revisorapp.se)
+
+Swedish bookkeeping SaaS for **enskild firma and small businesses**: receipts → approve → booked, VAT buffer, invoices, and weekly owner advice (one truth + one action). Live at [revisorapp.se](https://revisorapp.se/registrera). Tagline: *Dina siffror. Din fördel. Varje vecka.*
 
 #### [Neuromesure](https://github.com/eliospina/neuromesure) — [neuromesure.com](https://neuromesure.com)
 
