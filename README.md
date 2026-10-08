@@ -1,8 +1,7 @@
 <h1 align="center">Elizabeth Ospina</h1>
 
 <p align="center">
-  <strong>Economist (MSc)</strong> · 
-  
+  <strong>Economist (MSc)</strong> · <strong>Solo founder building full-stack products with AI</strong> · Sweden
 </p>
 
 <p align="center">
@@ -10,14 +9,12 @@
 </p>
 
 <p align="center">
-  <em>Solo builder 
+  <a href="https://revisorapp.se">revisorapp.se</a> ·
+  <a href="https://neuromesure.com">neuromesure.com</a> ·
+  <a href="https://neuroljus.com">neuroljus.com</a>
 </p>
 
 <p align="center">
-  <a href="https://revisorapp.se">revisorapp.se</a> ·
-  <a href="https://neuromesure.com">neuromesure.com</a> ·
-  <a href="https://neuroljus.com">neuroljus.com</a> ·
-  <a href="https://revisorapp.se/
   <a href="#work">Work</a> ·
   <a href="#focus">Focus</a> ·
   <a href="#build">How I build</a> ·
